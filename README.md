@@ -3,7 +3,7 @@ This repository contains different machine learning models designed to predict w
 
 The dataset (weather.csv) includes daily weather measurements.
 
-Various algorithms are implemented in separate folders:
+Various algorithms are implemented:
 
 Linear Regression
 
@@ -11,13 +11,13 @@ Random Forest
 
 Support Vector Machine (SVM)
 
-Each model folder includes scripts for:
+Each model includes scripts for:
 
-Training and testing the model (main.py)
+Training and testing the model 
 
-Visualization of predictions (visualize.py)
+Visualization of predictions 
 
-Performance analysis (analysis.py)
+Performance analysis
 
 The goal is to compare models and improve weather prediction accuracy step by step.
 
@@ -26,7 +26,7 @@ Bu depo, geçmiş hava durumu verilerini kullanarak hava koşullarını tahmin e
 
 Veri seti (weather.csv) günlük hava durumu ölçümlerini barındırır.
 
-Farklı algoritmalar ayrı klasörlerde uygulanmıştır:
+Farklı algoritmalar uygulanmıştır:
 
 Doğrusal Regresyon (Linear Regression)
 
@@ -34,13 +34,13 @@ Rastgele Orman (Random Forest)
 
 Destek Vektör Makinesi (SVM)
 
-Her model klasöründe:
+Her modelde:
 
-Modelin eğitimi ve testi için kodlar (main.py)
+Modelin eğitimi ve testi için kodlar
 
-Tahminlerin görselleştirilmesi (visualize.py)
+Tahminlerin görselleştirilmesi
 
-Performans analizleri (analysis.py) bulunur.
+Performans analizleri bulunur.
 
 Amaç, modelleri karşılaştırmak ve hava tahminlerinin doğruluğunu adım adım artırmaktır.
 
